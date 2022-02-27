@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain certificates serving to vindicate M. Sam. Eaton's righteousness and innocency, in receiving two sums of money, about which he hath been lately very maliciously traduced by some unworthy persons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78460</idno>
+            <idno type="STC">Wing C1687B</idno>
+            <idno type="STC">ESTC R176560</idno>
+            <idno type="EEBO-CITATION">45097616</idno>
+            <idno type="OCLC">ocm 45097616</idno>
+            <idno type="VID">171223</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171223)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2568:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain certificates serving to vindicate M. Sam. Eaton's righteousness and innocency, in receiving two sums of money, about which he hath been lately very maliciously traduced by some unworthy persons.</title>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Eaton, Samuel, 1596?-1665.</term>
+               <term>Clergy --  England --  Duckenfield.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb n="1" facs="tcp:171223:1" rendition="simple:additions"/>
+            <head>Certain Certificates ſerving to vindicate M. <hi>Sam. Eaton</hi>'s righteouſneſs and innocency, in receiving two ſums of money, about which he hath been lately very maliciouſly traduced by ſome unworthy perſons.</head>
+            <p>WHereas a Report hath paſſed from hand to hand in ſeveral places, importing M. <hi>Ea<g ref="char:EOLhyphen"/>tons</hi> detaining in his hand the ſum of twen<g ref="char:EOLhyphen"/>ty ſix pound, or twenty eight pound, which was intended for the poor by Col. <hi>Venables,</hi> when yet he had other monies given to him by the ſaid Colonel, by which he might know, that no part of the above mentioned money was intended for him: We the Elders of the Church unto which M. <hi>Eaton</hi> relates, think our ſelves obliged to teſtifie, That we have diligently ſearched into this matter, and have found it to be a groſs lie, forged &amp; fomented againſt him by perſons of a diſtempered ſpirit, who have born a grudge againſt him for attempting to heal their ſouls. For firſt, the ſum was but twenty four pound, ſent over from <hi>Ireland,</hi> in <hi>1651.</hi> by order of the foreſaid Colonel, to the Deacons diſpoſe. Secondly, M. <hi>Eaton</hi> received but <hi>20</hi> pound of this <hi>24</hi> pound. Thirdly,
+<pb n="2" facs="tcp:171223:2"/>He took it not, but it was allotted to him, and ordered for him to receive by the Deacons: And they had alſo ſpecial directi<g ref="char:EOLhyphen"/>on given unto them in a Letter written in the Colonel his name, by M. <hi>Taylor,</hi> that they ſhould very fully diſtribute to M. <hi>Eaton:</hi> and the ſending of other monies over to him, by the ſaid Colonel, to cut him off from having any part in this, was a meer forged buſineſs, there was no ſuch thing, as the Colonel himſelf confeſſeth. The Letter that clears M. <hi>Eaton</hi> and the Deacons, is extant, through the goodneſs of God, though it might have been lost in ſuch length of time, and the Colonel doth own it, as written by his direction. The perſons that deviſed, and firſt reported theſe monſtrous untruths, by a ſtrange hand of God, have been divided among themſelves, one caſting it upon another, and endeavouring to clear them<g ref="char:EOLhyphen"/>ſelves with high appeals to heaven; and ſince two of them have been for that, and other miſcarriages, caſt out of the Church, and a third perſon is under a ſolemn admonition. This we thought good to declare both for the clearing of M. <hi>Eaton,</hi> and that all Calumniators might fear and tremble, when they behold the righteous proceedings of God. This is teſtified by</p>
+            <closer>
+               <date>October 11. 1657.</date>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>William Barrit.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Partington.</hi>
+                     </item>
+                     <item>
+                        <hi>William Linnie.</hi>
+                     </item>
+                     <item>
+                        <hi>William Thomſon.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <p>WE whoſe names are hereunder written, being the Deacons of the Church that meets in <hi>Stopport</hi> School-houſe, having underſtood how maliciouſly M. <hi>Eaton</hi> hath been ſlandered, for taking <hi>20<hi rend="sup">l</hi>
+               </hi> which apper<g ref="char:EOLhyphen"/>tained not to him, but was intended (as was ſaid) by Colonel <hi>Venables</hi> (who ſent it from <hi>Ireland)</hi> to the poor: do think our ſelves obliged to clear him from ſuch an odious aſperſion,
+<pb n="3" facs="tcp:171223:2"/>and to teſtifie, that M. <hi>Eaton</hi> did not take this <hi>20<hi rend="sup">l</hi>
+               </hi> into his hands (as he hath been falſly charged to have done) but as it was ordered and appointed him by all, or the moſt of us, who have the power of diſpoſe of all ſuch monies as are given to the Churches uſe, by any member of it. And we do alſo cer<g ref="char:EOLhyphen"/>tifie, that the whole ſum that was ſent, was <hi>24<hi rend="sup">l</hi>,</hi> and that we had ſpecial direction given to us how to diſpoſe of it, in a Let<g ref="char:EOLhyphen"/>ter written by M. <hi>Taylor,</hi> in Col. <hi>Venables</hi> his name, which bears date <hi>Jan. 26. 1651.</hi> which Letter is yet extant, in words to this effect, That the Deacons ſhould very fully diſtribute to M. <hi>Eaton,</hi> if the neceſſities of private Brethren were not ex<g ref="char:EOLhyphen"/>ceeding preſſing. Whereupon we ordered, that M. <hi>Eaton</hi> ſhould have <hi>20<hi rend="sup">l</hi>,</hi> and that <hi>4<hi rend="sup">l</hi>
+               </hi> ſhould be given to the poor. And we alſo ſignifie, that there was not in this any ſpecial favour ſhewed to M. <hi>Eaton,</hi> but that this diſtribution was made ac<g ref="char:EOLhyphen"/>cording to ſuch rules of proportion as we had formerly gone by, our Teaching Officer at that time having not any other maintenance (to our knowledge) but what came through our hands: and for further confirmation of the truth of this our teſtimony, we do hereunto ſubſcribe our names.</p>
+            <closer>
+               <date>
+                  <hi>Octob. 11. 1657.</hi>
+               </date>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Edw. Tipping.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Newton.</hi>
+                     </item>
+                     <item>
+                        <hi>Joh. Wharmbie.</hi>
+                     </item>
+                     <item>
+                        <hi>Jam. Johnſon.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <p>
+               <hi>I</hi> Do hereby cerifie, that I did deſire M. <hi>Timothy Taylor,</hi> to return <hi>24<hi rend="sup">l</hi>
+               </hi> for me to the Church of <hi>Duckenfield,</hi> now meeting in <hi>Stopport,</hi> and that (I being very buſie, and want<g ref="char:EOLhyphen"/>ing time) he would write for me about the ſame; he adviſed, that if the want of private members were not very preſſing, M. <hi>Eaton</hi> might be very fully conſidered: to which I conſent<g ref="char:EOLhyphen"/>ed, and willed him to write what he thought fit, and I ſhould approve of it, which he accordingly did; for the ſubſtance of the Letter, the date, and other circumſtances, I must refer to
+<pb n="4" facs="tcp:171223:3"/>the Letter, which I now remember not. I do further certifie, that I received a Letter from M. <hi>Eaton,</hi> concerning his Re<g ref="char:EOLhyphen"/>ceipt of the above <hi>24,</hi> or part of it, which gave me ſatisfacti<g ref="char:EOLhyphen"/>on, and I returned an anſwer to it, but remember not the con<g ref="char:EOLhyphen"/>tents.</p>
+            <closer>
+               <dateline>Dated <date>
+                     <hi>Sept. 26. 1657.</hi>
+                  </date>
+               </dateline>
+               <signed>R. Venables.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <p>WHereas M. <hi>Eaton</hi> hath been ſcandalouſly aſperſed for getting <hi>10<hi rend="sup">l</hi>
+               </hi> into his hands, by his (or his Agents for him) pleading want, which was intended for the poor, I think it neceſsary to certifie, that M. <hi>Eaton</hi> received nothing but what I (being one of the Deacons of the Church to which he relates) did put into his hands: nor yet any thing but what was intended for him by Col. <hi>Venables,</hi> as his words to me did import. For thus it was, in <hi>Sept. 1656.</hi> Col. <hi>Venables</hi> brought <hi>10<hi rend="sup">l</hi>
+               </hi> to <hi>Stopport,</hi> and put it into my hands; where<g ref="char:EOLhyphen"/>upon I told him, it came ſeaſonably, as to M. <hi>Eaton,</hi> becauſe he had lately borrowed money; and his anſwer was, he was glad that it came ſo opportunely for him: by which words, and he declaring no other uſe for which he intended it, I conceived that his minde was, that M. <hi>Eaton</hi> ſhould have it: and it was no mistake in me, for he hath ſince teſtified ſo much under his hand. And whereas it is charged maliciouſly by ſome, that he (or his Agents for him) pleaded want, and did thereby get ſuch monies to himſelf, I do hereby aſsert, that I ſpake not one word of want, but only ſaid that he had lately borrowed money, which was a truth. Nor did M. <hi>Eaton</hi> wiſh me to ſpeak ſuch words: nor did he know that I ſpake any ſuch words till I told him: neither did he know that Col. <hi>Venables</hi> had any intent of leaving any money in mine, or any other mans hand, nor did Col. <hi>Venables</hi> make any mention at all of the poor: by all which it doth appear how falſly M. <hi>Eaton</hi> hath been charged, and bow baſely abuſed. This is teſtified by me under my hand.</p>
+            <closer>
+               <signed>Tho. Newton.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="5" facs="tcp:171223:3"/>
+            <p>BEing informed that ſome ſcandalous aſperſion hath been caſt upon M. <hi>Eaton,</hi> as a robber of the poor, for making uſe of <hi>10<hi rend="sup">l</hi>,</hi> left by me in the hands of <hi>Thomas Newton,</hi> one of the Deacons: At the time I delivered it him, I ſaid that I gave it to the Churches diſpoſe: and he telling me that it came opportunely, for he knew M. <hi>Eaton</hi> had borrowed money: I re<g ref="char:EOLhyphen"/>plyed, I was glad it came ſo ſeaſonably for him, intending M. <hi>Eaton</hi> in my thoughts; and however others may report the matter, I did intend the money for him. Only hearing that he had taken it up upon the account of a journey to <hi>London,</hi> I was unſatisfied therein, in regard I purpoſed an other requital for his love. This is teſtified by</p>
+            <closer>
+               <dateline>
+                  <hi>Cheſt.</hi> 
+                  <date>Sept. <hi>26. 1657.</hi>
+                  </date>
+               </dateline>
+               <signed>R. Venables.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="6" facs="tcp:171223:4"/>
+            <head>An Anſwer to the aforeſaid Certificates, pretending to clear M. <hi>Eaton</hi> from two ſums of money, ſent, and given by Col. <hi>Venables,</hi> to the Church called <hi>Ducken<g ref="char:EOLhyphen"/>field-</hi>Church.</head>
+            <p>OUr deſires are not to caſt aſperſions upon the per<g ref="char:EOLhyphen"/>ſons of others, but to clear the truth and our ſelves, from thoſe aſperſions of lying, forging, fomenting ca<g ref="char:EOLhyphen"/>lumniators, <hi>&amp;c.</hi> endeavoured to be caſt upon us by the aforeſaid Certificates; for our reſolves were, to ſit down in ſilence, as to Printing, had we not by the ſaid Certifi<g ref="char:EOLhyphen"/>cates been conſtrained thereunto; yet we are aſſured, that ſome of the perſons whoſe names are thereunto ſub<g ref="char:EOLhyphen"/>ſcribed, and in particular, Colonel <hi>Venables,</hi> were igno<g ref="char:EOLhyphen"/>rant of Printing thereof, until they came to publique view: We ſhall therefore in the firſt place ſhew the ground and riſe of the whole matter, which was as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>At the Aſſizes held at <hi>Cheſter, Octob.</hi> 6. 1656. we lying at <hi>Ralph Hall</hi>'s houſe, who (and his wife) are members of M. <hi>Eatons</hi> Church, his wife gave us a relation of ſom<g ref="char:EOLhyphen"/>thing that troubled her, about 40 ſhillings given them by Col. <hi>Venables,</hi> which M. <hi>Eaton</hi> ſaid was but lent them to be repaid by the Church, and that the greateſt burthen of it muſt lye upon him; which relation, at the requeſt
+<pb n="7" facs="tcp:171223:4"/>and importunity of <hi>William Barret</hi> (one of the Elders, whoſe hand is at the aforeſaid Certificate, to whom ſhe alſo told it) we gave in in writing under our hands to the Church, being produced by the aforeſaid <hi>William Bar<g ref="char:EOLhyphen"/>ret,</hi> as witneſſes of what we heard, according as we have herein hereafter declared.</p>
+            <p>Unto which relation ſo given unto us, I <hi>John Bruck<g ref="char:EOLhyphen"/>ſhaw</hi> replyed, As you are a Siſter, and <hi>Ralph</hi> a Brother, and I know nothing againſt you, I dare not but believe you, yet this I muſt ſay, the thing is ſo odious, and look<g ref="char:EOLhyphen"/>eth with ſuch a black face, that I muſt think, that unleſs a man were out of his ſenſes, he ſhould not ſo ſay, wit<g ref="char:EOLhyphen"/>neſs my hand,</p>
+            <closer>
+               <signed>
+                  <hi>John Bruckſhawe,</hi> and <hi>Robert Ridgway.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <p>FOr anſwer to the Certificates, we ſay, firſt, none of the perſons you intend in your Certificates, did ever mention twenty eight pounds, then who are the liars? Is it not as great a miſtake in you to put twenty eight pounds for twenty ſix, as <hi>Joyce Hall</hi> to put twenty ſix for twenty four. Secondly we ask, whether it be a groſs lye, for<g ref="char:EOLhyphen"/>ged by perſons of diſtempered ſpirits, to teſtifie what we were informed by <hi>Joyce Hall,</hi> and that when we were requeſted thereunto by <hi>William Barret,</hi> which we did
+<pb n="8" facs="tcp:171223:5"/>give in under our hands, being called thereunto as wit<g ref="char:EOLhyphen"/>neſſes, and not as a poſitive charge againſt M. <hi>Eaton;</hi> and your ſelves have ſaid, Two Affirmatives, will carry it a<g ref="char:EOLhyphen"/>gainſt five hundred Negatives; then why not our two Affirmatives againſt her Negative? And <hi>William Barret</hi> aforeſaid, told <hi>George Downs,</hi> one of your Members, that <hi>Joyce Hall</hi> cleared us; and <hi>Katharine Aſhton,</hi> another of your members likewiſe ſaith, <hi>Joyce Hall</hi> confeſſed ſo much as to clear us: And is it not more like to forgery, to put another mans name to a Letter or Writing, without his conſent or knowledge, as ſome of you did by <hi>John Dan,</hi> as himſelf openly declared.</p>
+            <p>But M. <hi>Eaton</hi> confeſſed, that the twenty four pounds were ſent unto the Church, and not to him, and that he writ to Col. <hi>Venables,</hi> that his contributions were ſmall; which procured the Letter from Colonel <hi>Venables</hi> you mention; We query then, if Colonel <hi>Venables</hi> changed his mind, Firſt, Who was the Author? Secondly, What ground had he for ſuch a change? Thirdly, What he had to do with that he had before given? Read <hi>Act.</hi> 5.4. And if not ſo ſent at firſt, why did M. <hi>Eaton</hi> ſay ſo? Where lies the untruth?</p>
+            <p>But M. <hi>Eaton</hi> ſaid further, if he might not take it up<g ref="char:EOLhyphen"/>on that account, he might upon this, <hi>viz.</hi> Becauſe Mris <hi>Venables,</hi> the Colonels firſt wife, whilſt ſhe lived, gave half a Crown a day, which upon computation, would amount to twenty pounds ſince ſhe died. But how juſtly he might ſo take it, let others judge; who if they will take the pains M. <hi>Eaton</hi> did, may know how long Colo<g ref="char:EOLhyphen"/>nel <hi>Venables</hi> paid for a dead wife.</p>
+            <p>And if Colonel <hi>Venables</hi> did not ſend other monies to cut him off from having any ſhare or part of the twenty
+<pb n="9" facs="tcp:171223:5"/>pounds, he preſented him in a more gentile way with Furrs of a good value in <hi>England,</hi> which were ſeen by ſome perſons (that will atteſt it) at <hi>Harden.</hi>
+            </p>
+            <p>And whereas the Elders ſay they are bound to clear M. <hi>Eaton,</hi> we ask <hi>William Barret,</hi> whether M. <hi>Eaton</hi> hath cleared himſelf, by bringing the money back to the Church, and confeſſing how evilly he hath carried it; yea ſo, as it might be known ſo far as the money was known of.</p>
+            <p>For <hi>William Barret</hi> told us, and ſome others, being asked what would be done about the money? That he <hi>(viz.</hi> M. <hi>Eaton)</hi> would never be cleared, until he had done ſo; for he had been with Colonel <hi>Venables,</hi> who told him, That he ſent the money to the Church; and <hi>William Barret</hi> further ſaid, That all the world ſhould not make him a penny-worth of <hi>Eaton,</hi> and if he were out of the Society, he would not come in again, if he might have his hat full of gold and ſilver to come in again: and this he ſpake at two ſeveral times, and yet his name is at the Certificate. Now if M. <hi>Eaton</hi> have not cleared himſelf as aforeſaid, who comes neareſt to lying, forging, and malicious ſlandering?</p>
+            <p>You ſay the money was ſent to the Deacons diſpoſe; but Colonel <hi>Venables</hi> ſaith in his Certificate, he ſent it to the Church: but if it was ſent to the Deacons, why were they not acquainted with it.</p>
+            <p>You ſay, he took it not, but it was ordered for him by the Deacons. Your ſo oft mentioning Deacons, comes nearer to lying and forgery, which you would charge up<g ref="char:EOLhyphen"/>on us; for none of the Deacons (we believe) knew of it, but <hi>Thomas Newton,</hi> who acted more for M. <hi>Eaton,</hi> then he did for the Church; as appears by the Elders Certi<g ref="char:EOLhyphen"/>ficate,
+<pb n="10" facs="tcp:171223:6"/>who ſay, M. <hi>Eaton</hi> had but twenty pounds of the twenty four pounds: For, when the money came in de<g ref="char:EOLhyphen"/>bate about <hi>November</hi> 1656. all the Deacons (except <hi>Thomas Newton</hi>) ſaid, they never heard, or knew of the money: Let the Deacons ſpeak themſelves one by one, and not in ſo dark expreſſions, as by us, or ſome of us; when was this money ordered to M. <hi>Eaton?</hi> Was it in 1651. and was any of you privie to it but <hi>Thomas New<g ref="char:EOLhyphen"/>ton?</hi> You formerly denied it, and ſaid, ſure <hi>Lawrence Owen</hi> gave it unto him: but why was this word <hi>(But)</hi> put in? To make the Reader think twenty pounds was too little for M. <hi>Eaton,</hi> and four pounds too much for the poor; or, to manifeſt your ſimplicity, ſlavery, or want of charity; and if four pounds was reſerved for the poor, three pounds of that was put into M. <hi>Eatons</hi> hands, as both he, and <hi>Thomas Newton</hi> confeſſed, but is not yet known what poor had it, nor what became of the other twenty ſhillings.</p>
+            <p>Again you ſay, it was by ſpecial direction in a Letter from M. <hi>Taylor</hi> in Colonel <hi>Venables</hi> name: But none of the Deacons knew of the Letter, except <hi>Thomas Newton,</hi> before M. <hi>Eaton</hi> had the twenty pounds; for they knew not of the money, how could they then know of the Letter? M. <hi>Eatons</hi> keeping the Letter in his own cuſto<g ref="char:EOLhyphen"/>dy both from them and the Church, imports, that M. <hi>Eaton</hi> knew, M. <hi>Taylor</hi>'s directions were not, that he ſhould have twenty pounds, and the poor but four; or, that the Church would not be ſo uncharitable, as to make ſo unequal a diviſion; which, though we do not call it Church-robbing, yet, was it not a covetous interpoſing betwixt the poor and the money? M. <hi>Taylor</hi>'s directi<g ref="char:EOLhyphen"/>ons had been anſwered, if M. <hi>Eaton</hi> had had the better
+<pb n="11" facs="tcp:171223:6"/>half, conſidering how many perſons were to be relieved out of it; for how many of your members then were, and are poor, and in debt, we leave them to judge that know them; whoſe conditions ſhould have been firſt conſidered, by M. <hi>Taylor</hi>'s direction: by which Colonel <hi>Venables</hi> charity appeared, who intended not the money ſhould have been ſo divided. If the power of diſpoſing be in the Deacons, ſure it was according to Scripture, and then the poor ſhould have had it: for where finde you, that the Deacons ſhould take care of the Church Officers?</p>
+            <p>But you are not aſhamed to ſay, that no ſpecial favour was ſhewed to M. <hi>Eaton</hi> in the diviſion, becauſe it was according to the ſame rules of proportion you had for<g ref="char:EOLhyphen"/>merly gone by; and that he had no other maintenance, to your knowledge, but what came through your hands. To which we anſwer, The more common an evil is, the worſe it is; and yet you ſay, that was your common rule, to make ſo unequal diviſions betwixt M. <hi>Eaton</hi> and the poor. But did none of you know, or did not <hi>Thomas Newton</hi> know, that M. <hi>Eaton</hi> had, and hath an eſtate with his wife, worth forty pounds <hi>per annum,</hi> or thereabouts, and that after the end of the firſt Wars, he had forty pounds <hi>per annum</hi> from Sequeſtrations, and that he hath bought Lands in <hi>Ireland</hi> to a good value, and either Lands or Rents in <hi>Cheſhire,</hi> worth thirty four pounds <hi>per annum,</hi> or thereabouts; and that he had forty pounds, or fifty pounds, as Chaplain to <hi>Cheſter</hi> Garriſon, about 1651. Or did theſe, or any of theſe, come through your hands; if ſo, your ſin was the greater, to give him twen<g ref="char:EOLhyphen"/>ty pounds, and the poor but four, if they had it: And if he kept theſe, or any of theſe ſecret from you, and
+<pb n="12" facs="tcp:171223:7"/>pleaded neceſſity, was it not to keep you to your unequal diviſion, to give him five times ſo much as to all the poor of the Church? And why do you ſo, ſince he hath no children to maintain, nor kept any houſe ſince he was your Paſtor, which is about twelve years? But the na<g ref="char:EOLhyphen"/>ture of covetouſneſs is, that much would have more: which more appears, for that he hath now alſo an allow<g ref="char:EOLhyphen"/>ance from the State of an hundred pounds <hi>per annum;</hi> and we query, whether when he went to wait upon the Lord Protector, then Lord General in <hi>Scotland,</hi> he had not an allowance from the ſaid Lord General, or elſe a levie upon the Church to defray his charge; yea, we query, whether he had not both: for we believe the Lord General was ſo Noble, he would not let him ſerve him for nothing.</p>
+            <p>If the Letter from M. <hi>Taylor</hi> be extant, why did you not print it? for, if M. <hi>Eaton</hi> and <hi>Thomas Newton</hi> ever be cleared, it's that muſt do it, and not your piece-meal collections, under which, wit and words may make a truth ſeem a lye, and a lye ſeem a truth; and who knows your Author, knows he is both full of wit and words, to extenuate or aggravate to his own advantage, his greateſt temptation in publique, being credit; and in private, profit: which meeting together, are like the ſons of <hi>Zerviah,</hi> too hard for a <hi>David,</hi> without the help of an heavenly power, which M. <hi>Taylor</hi> conceived to be a<g ref="char:EOLhyphen"/>mongſt you, as by his charitable caution appears, of ful<g ref="char:EOLhyphen"/>ly diſtributing to M. <hi>Eaton,</hi> if the neceſſities of private brethren were not exceeding preſſing. And if it be the goodneſs of God that the Letter is extant, why was it not diſcovered before the money came in queſtion, which though it was ſent in 1651. was never known to the
+<pb n="13" facs="tcp:171223:7"/>Church, as we could ever hear of, until 1656. and that it ſhould now be diſcovered, is ſo remarkable, that it beſpeaks it ſelf to be the juſt hand of God, that others may fear and tremble, and beware of covetous under<g ref="char:EOLhyphen"/>dealing; for, truth ſeeks no corners: But no cauſe of fear and trembling unto us, as you falſly apply it, unleſs for your, and his unrighteous dealings. And the afore<g ref="char:EOLhyphen"/>ſaid <hi>William Barret</hi> ſaith yet, that he did not know of the money, and at that time there was no Elder but he and M. <hi>Eaton.</hi>
+            </p>
+            <p>Whereas you ſay we have ſince been divided amongſt our ſelves, with high appeals to heaven; it's an untruth, for we were never divided: As for <hi>Joyce Hall</hi> that told us, we leave to anſwer for her ſelf, who ſpake truth in the main; and if it had been a miſtake in her, its no ground for you to boaſt in anothers infirmity, except free your ſelves; it's true, we did appeal to heaven, and ſo we can yet do, that what we teſtified, was truth; for we teſtified nothing but what <hi>Joyce Hall</hi> told us, and did not aſſert that the report was truth, being forewarned by <hi>William Barret</hi> aforeſaid, that M. <hi>Eaton</hi> did not ſo much matter the buſineſs of the money, ſo he could entrap us; and if it was ſo hainous in <hi>Joyce Hall</hi> to contradict her ſelf, what was it for M. <hi>Eaton</hi> to contradict himſelf twice in one thing, with high appeals to heaven; and after<g ref="char:EOLhyphen"/>wards, when witneſſes were ready to have proved the thing, then, and not before to confeſs the truth: Is not this matter of trembling?</p>
+            <p>You ſay, two of us have ſince, for that, and other miſ<g ref="char:EOLhyphen"/>carriages, been caſt out of the Church. Why do you add this, but to caſt a vail before the eyes of the Reader, to make him think, that your abuſe of ſo great an Ordi<g ref="char:EOLhyphen"/>nance,
+<pb n="14" facs="tcp:171223:8"/>will clear your innocency. What you charged us with, given ſince under your hands, makes us not the ſubjects of Excommunication, as we ſhall ſhew in their time and place; but it ſeems that this diſcovery of the money was the main thing; for which, and alſo for other miſcarriages of yours, we had rather be out then in: Your caſting us out, was but to caſt an odium upon us for juſtly leaving you, and to cover ſome nakedneſs of your own you apprehended would appear to your ſhame, ſo that when M. <hi>Eaton</hi> is cleared, we ſhall ſo certifie with you, but not till then; and not till then, nor then, we proved Calumniators. But is not <hi>William Barret</hi> (a<g ref="char:EOLhyphen"/>foreſaid) rather a Calumniator, who certifies thus now, and yet ſince <hi>Octob.</hi> 6. 1656. came to us, and deſired us to appear in diſcovery of this money, and promiſed to ſecond us therein, and wiſhed us to ſtay a while before we broke off, that he might go out with us, time would not be ſo long.</p>
+            <p>Your ſpirit of diſcerning, that told you we had a grudge againſt M. <hi>Eaton,</hi> was a ſpirit of falſhood, for we had none againſt him; and how can you ſay it was for endeavouring to heal our ſouls, when one of us had an<g ref="char:EOLhyphen"/>ſwered your one and twenty ſifting Articles to your ſa<g ref="char:EOLhyphen"/>tisfaction, and you never laid any thing to either of our charge, nor admoniſhed us, until one of us had admo<g ref="char:EOLhyphen"/>niſhed you, and admoniſhed not the other till the money was queſtioned, and then, for no errour in doctrine, nor ſcandal in converſation; but becauſe he would not tell you, whether he told them who you call unjuſtly your profeſſed enemies, of the money, and would not (as you ſaid) be ſatisfied about the money.</p>
+            <p>The righteous proceedings of God will be more
+<pb n="15" facs="tcp:171223:8"/>clearly beheld, if he enable you to give glory to him, by certifying the truth of what you know of your own knowledge, and not what you were taught by another; for by the rigour and equivocation of the Stile, the Au<g ref="char:EOLhyphen"/>thor may eaſily be diſcerned.</p>
+            <p>For Colonel <hi>Venables</hi> Certificate about the twenty four pounds, we ſhall ſay nothing againſt it, but that it may be true, and yet M. <hi>Eaton</hi> never the more cleared thereby: for the neceſſities of private Brethren ſhould have been firſt conſidered, before M. <hi>Eaton</hi> had any part of it, which both the Letter and Certificate do teſtifie.</p>
+            <p>We ſhall leave it to the judgement of the impartial reader, to whom the charges of lying, forging, foment<g ref="char:EOLhyphen"/>ing, calumniating, and malicious ſlandering, endeavoured by the Certificates to be caſt upon us, doth of right belong.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Bruckſhaw.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Ridgway.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <head>
+               <hi>Now I</hi> Thomas Werral <hi>anſwer.</hi>
+            </head>
+            <p>FOR <hi>Thomas Newtons</hi> certificate about the ten pounds, I conceive it belongs unto me, becauſe the words therein recited, I underſtand were mine, becauſe given forth by themſelves, in anſwer to my paper they took from me by violence, <hi>viz.</hi> That he pleaded want, or his Agents for him, thereby getting
+<pb n="16" facs="tcp:171223:9"/>that money which was at firſt intended for the poor, and their loyns might have bleſſed God for General <hi>Vena<g ref="char:EOLhyphen"/>bles.</hi>
+            </p>
+            <div type="part">
+               <head>For Anſwer.</head>
+               <p n="1">1. Its clear from your own certificate, that you was the inſtrument to get M. <hi>Eaton</hi> the money, though he might not bid you, nor know of it, until you gave it him, ſo that his not employing you, makes you a voluntary Agent, which is ſo much worſe on your part.</p>
+               <p n="2">2. Secondly, Though you uſed not the word want, yet that it came ſeaſonably, becauſe he had borrowed money, is of a ſtronger import then the word want: for many will rather want, then borrow to buy Land or Rents, which he did about that time: and yet this was your argument to get him that money, which was given to the Churches diſpoſe, as Colonel <hi>Venables</hi> certifies himſelf, and M. <hi>Eaton</hi> himſelf in a letter to Mris <hi>Venables</hi> confeſſed it was want that cauſed him to take it.</p>
+               <p n="3">3. Thirdly, You might as well have told him the rea<g ref="char:EOLhyphen"/>ſons of his borrowing money, if you had been faithful in your office, <hi>viz.</hi> to buy Land or Rents, and then the Colonel would not have ſo ſaid, as himſelf confeſſeth.</p>
+               <p n="4">4. Fourthly, Whether you ſpeak truth or no, in ſay<g ref="char:EOLhyphen"/>ing he declared no other uſe for which he intended it, I ſhall leave it to Colonel <hi>Venables</hi> himſelf, who ſaith he told you, he deſired <hi>Ralph Hall</hi> might have forty ſhillings out of it, and that you ſhould acquaint the Church with it; which had you done, and given <hi>Ralph Hall</hi> the forty ſhillings, had more beſeemed a Deacon, whoſe work is, to care for the poor, as <hi>Acts</hi> 6. ſhews, though it would not have quit you from being an inſtrument on M. <hi>Eatons</hi> behalf, to interpoſe betwixt the poor and the money,
+<pb n="17" facs="tcp:171223:9"/>though he hath reported he is eight hundred pounds bet<g ref="char:EOLhyphen"/>ter, then in the beginning of theſe troubleſome times.</p>
+               <p n="5">5. Fifthly, Why did you not give <hi>Ralph Hall</hi> the forty ſhillings, and why doth not M. <hi>Eaton</hi> give it him, ſeeing he knows now it was the Colonels mind, and not he to have it all? as M. <hi>Eaton</hi> hath confeſſed himſelf, and gave <hi>Ralph Hall</hi> ten ſhillings, and writ to Colonel <hi>Venables,</hi> that he would give him the other thirty ſhil<g ref="char:EOLhyphen"/>lings; and yet afterwards writ by <hi>William Barret</hi> to the Colonel, that if he would have <hi>Ralph Hall</hi> to have the thirty ſhillings, he muſt pay it himſelf, for he would not, and to this day it is not paid.</p>
+               <p>For Colonel <hi>Venables</hi> Certificate, he hath already de<g ref="char:EOLhyphen"/>clared himſelf to the truth of his Wives Letter: That he firſt intended the ten pounds for the Church, and not for M. <hi>Eaton,</hi> when he brought it to <hi>Thomas Newton,</hi> and that it was <hi>Thomas Newton</hi>'s telling him that it came opportunely, becauſe M. <hi>Eaton</hi> had borrowed money, which moved him to change his mind, and ſay, he was glad it came ſo opportunely; but ſaith, he did not know that he had borrowed money to buy Land, or Rents; and further ſaith, that at the ſame time he did not intend the whole ten pounds for M. <hi>Eaton,</hi> but bade <hi>Thomas Newton</hi> acquaint the Church with it, and deſired that <hi>Ralph Hall</hi> might have forty ſhillings out of it; and M. <hi>Eaton</hi> himſelf in a Letter to Colonel <hi>Venables,</hi> confeſ<g ref="char:EOLhyphen"/>ſeth he underſtood him ſo, and that he had given <hi>Ralph Hall</hi> ten ſhillings, and would ſend the Colonel thirty more, to make it up forty, to give <hi>Ralph Hall;</hi> and the reaſon that he gave the Certificate, was, becauſe M. <hi>Eaton</hi> had ſo promiſed, as aforeſaid; which if M. <hi>Eaton</hi> had accordingly performed, he had done <hi>Ralph Hall</hi> no
+<pb n="18" facs="tcp:171223:10"/>wrong; and if Colonel <hi>Venables</hi> gave this Certificate, not mentioning the whole of the buſineſs (as ſince he hath done) nor did declare the whole buſineſs at ſome other times when he was asked it, it doth not therefore clear M. <hi>Eaton,</hi> that M. <hi>Venables (viz.</hi> the Colonel) committed an errour of love, to cover M. <hi>Eaton</hi>'s ſhame; but ſhews his ingratitude in making ſuch returns to Col. <hi>Venables</hi> as ſince he hath done.</p>
+               <closer>
+                  <signed>Thomas Werrall.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <p>THeſe things conſidered, we hope will wipe off the aſperſions, endeavoured by the Certificates to be caſt upon us. And whereas you ſay, We were for this, and other miſcarriages, caſt out: we ſay, for this, and o<g ref="char:EOLhyphen"/>ther miſcarriages of yours, we had (as your ſelves know, and have confeſſed) broken off from you, and that not raſhly, but upon due conſideration, after we had wait<g ref="char:EOLhyphen"/>ed long in the uſe of that means the Scripture preſcribes unto us, to have reclaimed you both by our ſelves, and Officers of two other Churches; but when you perſiſt<g ref="char:EOLhyphen"/>ed in your unrighteous actings, and would be your own Judges, that were the guilty perſons, we were conſtrained to break off from you, leſt we ſhould partake of your ſins: where then was your power to caſt us out, who were none of you? Yea, where was your power to caſt out any, until you had cleared your ſelves? So that
+<pb n="19" facs="tcp:171223:10"/>you did but add to your former evils, by abuſing an Or<g ref="char:EOLhyphen"/>dinance of Jeſus Chriſt. You your ſelves withdrew from the Presbyterians for diſorderly walking, whom you own to be true Churches, and yet never admoniſhed them before; therefore our withdrawing from you, was more regular; and they have a better ground to excommuni<g ref="char:EOLhyphen"/>cate you, then you had to excommunicate us.</p>
+            <p>Therefore we leave it to your, and others conſiderati<g ref="char:EOLhyphen"/>on, whether you ought not rather to have paſſed your ſentence upon him that hath ſo carried himſelf as afore<g ref="char:EOLhyphen"/>ſaid, according to expreſs Scripture, for 1 <hi>Tim.</hi> 6.10. <hi>The love of money is the root of all evil:</hi> and <hi>verſ.</hi> 5. <hi>Sup<g ref="char:EOLhyphen"/>poſing Gain is Godlineſs; from ſuch withdraw thy ſelf. Col:</hi> 3.5. <hi>Covetouſneſs is Idolatry:</hi> and covetouſneſs and gree<g ref="char:EOLhyphen"/>dineſs of filthy Lucre, makes perſons unfit for Office in the Church, <hi>Tit.</hi> 1.7. 1 <hi>Tim.</hi> 3.3.8. and whether is not the getter and receiver both alike? and <hi>Paul</hi> 1 <hi>Cor.</hi> 5.11. commands, not to keep company, no, not to eat with one accounted a brother, and covetous.</p>
+            <p>The reaſons why you ſo dealt with us, and your pro<g ref="char:EOLhyphen"/>ceedings therein, together with our anſwers thereunto, we ſhall in due time make known, if conſtrained thereunto, as we have been unto this. <hi>May</hi> 14. 1658.</p>
+            <p>The reaſons why we delayed our anſwers ſo long, was, becauſe they did not name us in the certificate, ſo that we could but go upon conjectures, that we were the perſons intended; but ſeeing both M. <hi>Eaton,</hi> and others have o<g ref="char:EOLhyphen"/>penly declared, that we were the very perſons therein in<g ref="char:EOLhyphen"/>tended, we hold our ſelves bound, for clearing up of the truth, and our own vindication, to return the aforeſaid anſwers under our hands.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
